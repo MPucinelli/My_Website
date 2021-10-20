@@ -80,7 +80,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
+      - image: lbspic.jpg
         subtitle: How did I end up here??
         title: My_Story
         url: blogs/My_Story
