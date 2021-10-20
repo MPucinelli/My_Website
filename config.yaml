@@ -8,15 +8,14 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: The Express Guide to Markets
+      The Express Guide to Markets.
+    title: Welcome to Finance Fast Track
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, SW15 5JS
+        country: United Kingdom
+        street: 12 Roehampton Gate
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -25,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (044) 7518 404900
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,7 +34,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Finance Fast Track
     enable: yes
     quicklinks:
       - alt: HTML5 UP
