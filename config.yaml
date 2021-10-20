@@ -10,7 +10,7 @@ params:
     subtitle: |-
       The Express Guide to Markets.
     title: Welcome to Finance Fast Track
-  blog: {Hello my name is Mario and this is my Website!}
+  blog: {"Hello my name is Mario and this is my Website!"}
   contact:
     address:
       - city: London, SW15 5JS
@@ -84,6 +84,7 @@ params:
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
+        blog{In this blog I will talk about...}
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
