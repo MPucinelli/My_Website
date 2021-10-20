@@ -8,7 +8,10 @@ draft: false
 image: pic01.jpg
 
 keywords: ""
-slug: My_Story
-title: From Sunny Days to Clouds and Snow
+slug: my_story
+title: About our Founder
 ---
-hey I'm uh... I'm a pretty cool guy you know?
+## About ME
+Hello! My name is Mario - Founder and CEO of Finance Fast Track Magazine.
+
+I would like to welcome you to our website, where we hope to provide useful information 
