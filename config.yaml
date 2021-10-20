@@ -83,7 +83,7 @@ params:
       - image: lbspic.jpg
         subtitle: How did I end up here??
         title: My Story
-        url: blogs/my_story
+        url: blogs/My_Story
       - image: pic02.jpg
         subtitle: Check out one of our issues!
         title: Sample Issues
