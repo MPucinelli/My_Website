@@ -82,8 +82,8 @@ params:
     showcase:
       - image: lbspic.jpg
         subtitle: How did I end up here??
-        title: My_Story
-        url: blogs/My_Story
+        title: My Story
+        url: blogs/My Story
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
