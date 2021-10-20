@@ -85,9 +85,9 @@ params:
         title: My Story
         url: blogs/my_story
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/my_mtory
+        subtitle: Check out one of our issues!
+        title: Sample Issue
+        url: blogs/sample_issue
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
