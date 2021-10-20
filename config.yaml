@@ -80,11 +80,11 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-        blog{In this blog I will talk about...}
+      - image: lbs.jpg
+        subtitle: How did I end up here??
+        title: My_Story
+        url: blogs/My_Story
+        blog: {In this blog I will talk about...}
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
