@@ -2,10 +2,10 @@
 categories:
 - ""
 - ""
-date: 20/10/2021
+date: "2021-10-20"
 
 draft: false
-image: pic01.jpg
+image: lbspic.jpg
 
 keywords: ""
 slug: my_story
@@ -14,4 +14,8 @@ title: About our Founder
 ## About ME
 Hello! My name is Mario - Founder and CEO of Finance Fast Track Magazine.
 
-I would like to welcome you to our website, where we hope to provide useful information 
+I would like to welcome you to our website, where we hope to provide useful information. 
+
+Before exploring the rest of our offering, I'd like to give some background about myself.
+
+I am a Brazilian national, born and raised in the city of São Paulo, where I was raised for 11 years of my life.
