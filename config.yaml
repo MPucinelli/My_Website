@@ -65,10 +65,10 @@ params:
         url: blogs
     button2:
       - name: Log In
-        url: '#'
+        url: 'poo'
     links:
       - name: Home
-        url: '#'
+        url: 'pie'
       - name: Blogs
         url: blogs
       - name: Generic Blog
