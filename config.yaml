@@ -13,9 +13,9 @@ params:
   blog: {}
   contact:  
     address:
-      - city: London, SW15 5JS
+      - city: London
         country: United Kingdom
-        street: 12 Roehampton Gate
+        street: 32 London Bridge Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -67,13 +67,15 @@ params:
         #url: '#'
     links:
       - name: Home
-        url: 'pie'
-      - name: Blogs
-        url: blogs
-      #- name: Generic Blog
-        #url: blogs/ipsum
-      #- name: Elements
-        #url: elements.html
+        url: '#'
+      - name: Founder's Story
+        url: blogs/My_Story
+      - name: Sample Issues
+        url: blogs/sample_issue
+      - name: Coding is the Future
+        url: blogs/citf
+      - name: Looking for Work?
+        url: blogs/cv
     menu: Menu
     subtitle: By Mario Pucinelli Filho
     title: FFT
