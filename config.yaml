@@ -84,15 +84,15 @@ params:
         subtitle: How did we get here??
         title: Founder's Story
         url: blogs/My_Story 
-      - image: pic02.jpg
+      - image: fftpicco.jpg
         subtitle: Check out one of our issues!
         title: Sample Issues
         url: blogs/sample_issue
-      - image: pic03.jpg
+      - image: hackerman.jpg
         subtitle: How R can be a Powerful Tool
         title: Coding is the Future
         url: blogs/citf
-      - image: pic04.jpg
+      - image: job.jpg
         subtitle: Compare your CV with ours first!
         title: Looking for work?
         url: blogs/cv

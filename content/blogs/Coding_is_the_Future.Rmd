@@ -14,7 +14,7 @@ title: Analysis of the Barcelona ABB Market Using R
 
 Coding is the future. As businesses and the world more broadly depend more on digital technology to perform important tasks, the importance of knowing how to "read" these new languages becomes increasingly important. 
 
-Below is an analysis of the Barcelona AirBnB market which explores which factors affect the house prices in Barcelona, and also predicts the most cost-effective stay for a 4-night getaway.
+Below is an analysis of the Barcelona AirBnB market which explores which factors affect the house prices in Barcelona, and also predicts the most cost-effective stay for a 4-night getaway - all using R!
 
 ```{r, echo = FALSE, out.width="100%"}
 knitr:: include_graphics("/img/ABB2.jpg", error = FALSE)
