@@ -89,9 +89,9 @@ params:
         title: Sample Issues
         url: blogs/sample_issue
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: How R can be a Powerful Tool
+        title: Coding is the Future
+        url: blogs/citf
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
