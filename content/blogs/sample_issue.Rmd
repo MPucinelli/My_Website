@@ -16,5 +16,20 @@ This is one of our most popular issues published in 2020, where we covered the p
 
 ```{r, echo = FALSE, out.width="100%"}
 knitr:: include_graphics("/img/USA1.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA2.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA3.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA4.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA5.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA6.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA7.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA8.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA9.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA10.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA11.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA12.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA13.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA14.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA15.jpg", error = FALSE)
+knitr:: include_graphics("/img/USA16.jpg", error = FALSE)
 ```
 
