@@ -81,8 +81,8 @@ params:
     enable: yes
     showcase:
       - image: lbspic.jpg
-        subtitle: How did I end up here??
-        title: My Story
+        subtitle: How did we get here??
+        title: Founder's Story
         url: blogs/My_Story
       - image: pic02.jpg
         subtitle: Check out one of our issues!
@@ -93,9 +93,9 @@ params:
         title: Coding is the Future
         url: blogs/citf
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: Compare your CV with ours first!
+        title: Looking for work?
+        url: blogs/cv
       #- image: pic05.jpg
         #subtitle: Ipsum Dolor Sit Amet
         #title: Consequat
@@ -107,8 +107,7 @@ params:
   two:
     #buttonText: Get Started
     enable: yes
-    subtitle: "I was born in Hungary, and I am a very funny guy. So far I lived in four different countries, but my favourite one has been Ghana.\
-    I travel a lot, and it is something that I cherish about having been able to do growing up. If I had to highlight the favourite country that\
-    I have been to it would be Kenya.In my free time, I enjoy golfing, listening to techno music and working out."
-    title: Something funny about me
+    subtitle: "We aim to consolidate information from both international and local news sources, examining the impact of global events
+through the domestic lenses of the countries which we cover."
+    title: Our Mission
     #url: blogs

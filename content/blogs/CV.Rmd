@@ -1,0 +1,36 @@
+---
+categories:
+- ""
+- ""
+date: "2021-10-21"
+
+draft: false
+image: lbspic.jpg
+
+keywords: ""
+slug: cv
+title: Want to Work at FFT?
+---
+
+Great news - we're hiring! 
+
+Just send your CV to our email (link below), and give us a few reasons why you think you'd be a good fit for the team.
+
+Below is an example CV which might be a good place for you to start considering how to best represent your amazing achievements so far!
+
+Benefits include:
+
+- Free lunch
+- A small loan of a million dollars
+- Private jets
+- Yachts
+- Goldman Sachs Internships for All (T&Cs apply)
+- Amazing corporate holidays in Dubai
+- Possibly stock options
+- You get to keep your soul, relationships and general sanity
+
+```{r, echo = FALSE, out.width="100%"}
+
+knitr:: include_graphics("/img/CV.jpg", error = FALSE)
+```
+
