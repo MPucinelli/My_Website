@@ -30,7 +30,6 @@ Benefits include:
 - You get to keep your soul, relationships and general sanity
 
 ```{r, echo = FALSE, out.width="100%"}
-
 knitr:: include_graphics("/img/CV.jpg", error = FALSE)
 ```
 

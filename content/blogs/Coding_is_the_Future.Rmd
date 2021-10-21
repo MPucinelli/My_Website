@@ -17,7 +17,6 @@ Coding is the future. As businesses and the world more broadly depend more on di
 Below is an analysis of the Barcelona AirBnB market which explores which factors affect the house prices in Barcelona, and also predicts the most cost-effective stay for a 4-night getaway.
 
 ```{r, echo = FALSE, out.width="100%"}
-
 knitr:: include_graphics("/img/ABB2.jpg", error = FALSE)
 
 knitr:: include_graphics("/img/ABB3.jpg", error = FALSE)
