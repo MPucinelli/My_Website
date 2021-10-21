@@ -40,4 +40,5 @@ I have since lived in the UK for 6 years, finishing my high school and universit
 knitr:: include_graphics("/img/uon.jpg", error = FALSE)
 
 ```
+
 Now I am studying Financial Analysis at London Business School, after which I hope to get into Investment Banking!
