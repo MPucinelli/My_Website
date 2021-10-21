@@ -12,4 +12,9 @@ slug: sample_issue
 title: Read one of our most popular issues!
 ---
 
-Hello!
+This is one of our most popular issues published in 2020, where we covered the political and economic developments in the United States.
+
+```{r, echo = FALSE, out.width="100%"}
+knitr:: include_graphics("/img/USA1.jpg", error = FALSE)
+```
+
